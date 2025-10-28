@@ -160,7 +160,7 @@
         }
         
         .testimonial-card::before {
-            content: """;
+            content: "";
             position: absolute;
             top: -30px;
             left: 10px;
